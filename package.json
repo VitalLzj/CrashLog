@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuto-cn/crash-log-cordova-plugin.git"
+    "url": "git+https://github.com/VitalLzj/CrashLog.git"
   },
   "keywords": [
     "cordova",
